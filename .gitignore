@@ -16,6 +16,8 @@
 # Mono auto generated files
 mono_crash.*
 
+./src/DentistManagerApi/.idea
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
